@@ -1,0 +1,13 @@
+W205 Assignment 1 answers.txt
+Revised 5/31/15
+
+3) Running time on test-1.warc
+
+	Local time: 1m38.413s (real)
+	
+	EMR time: 19m27.513s (real)
+	mrjob reports 166.0s (=2m46.0s) discounting time waiting for spot nodes
+	Run on 6(master+5xslave) m3.xlarge nodes
+
+4) n(<address>) = 2042
+5) Both answers were identical
